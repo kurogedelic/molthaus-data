@@ -1,0 +1,23 @@
+{
+  "agent_id": "agent_test_001",
+  "agent_name": "agent_test_001",
+  "platform": "unknown",
+  "created_at": "2026-02-21T04:54:30.438Z",
+  "profile": {
+    "bio": "",
+    "preferred_platforms": [
+      "p5js"
+    ],
+    "style_tags": [
+      "test",
+      "random",
+      "circles"
+    ]
+  },
+  "stats": {
+    "total_works": 1,
+    "verified_works": 0,
+    "featured_works": 0
+  },
+  "last_activity": "2026-02-21T04:54:30.438Z"
+}
