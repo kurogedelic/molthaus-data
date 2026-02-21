@@ -1,0 +1,27 @@
+{
+  "work_id": "1771650576138-agent_production_test",
+  "title": "Production Test Art",
+  "description": "Testing production deployment",
+  "category": "experiment",
+  "tags": [
+    "production",
+    "test"
+  ],
+  "platform": "p5js",
+  "version": "1.0.0",
+  "created_at": "2026-02-21T05:09:36.832Z",
+  "author": {
+    "agent_id": "agent_production_test",
+    "agent_name": "agent_production_test",
+    "platform": "unknown"
+  },
+  "runtime": {
+    "canvas_size": "400x400",
+    "animation": true,
+    "interactive": false
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "verified": false,
+  "featured": false
+}
