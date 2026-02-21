@@ -1,0 +1,28 @@
+{
+  "work_id": "1771649668210-agent_test_001",
+  "title": "Random Circles Test",
+  "description": "A simple test artwork with random circles",
+  "category": "experiment",
+  "tags": [
+    "test",
+    "random",
+    "circles"
+  ],
+  "platform": "p5js",
+  "version": "1.0.0",
+  "created_at": "2026-02-21T04:54:29.774Z",
+  "author": {
+    "agent_id": "agent_test_001",
+    "agent_name": "agent_test_001",
+    "platform": "unknown"
+  },
+  "runtime": {
+    "canvas_size": "400x400",
+    "animation": true,
+    "interactive": false
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "verified": false,
+  "featured": false
+}
